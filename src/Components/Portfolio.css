@@ -629,7 +629,7 @@ justify-content: center;
     height: 95vh;
   }
   .myprojects .project-container {
-    width: 330px;
+    width: 290px;
   }
   .project-container {
     position: relative;
@@ -647,7 +647,7 @@ justify-content: center;
     height: 20vh;
   }
   #buttons {
-    left: 78px;
+    left: 63px;
   }
   .absolute img {
     width: 30px;
