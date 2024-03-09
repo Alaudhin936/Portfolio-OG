@@ -179,6 +179,7 @@ nav ul li:hover {
 .skill-img {
   display: flex;
   gap: 30px;
+  flex-wrap: wrap;
 }
 .buttons {
   display: flex;
