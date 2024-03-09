@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-OG/static/css/main.100e4af5.css",
+    "main.js": "/Portfolio-OG/static/js/main.1d1e40e8.js",
+    "static/js/787.2aba3b6f.chunk.js": "/Portfolio-OG/static/js/787.2aba3b6f.chunk.js",
+    "static/media/43543.jpg": "/Portfolio-OG/static/media/43543.3907148b3d5908c22bd0.jpg",
+    "static/media/Chennai Saloon.png": "/Portfolio-OG/static/media/Chennai Saloon.b408bce79cfd5f7f7c68.png",
+    "static/media/map.png": "/Portfolio-OG/static/media/map.90ce0410cbea1a5b3e63.png",
+    "static/media/Lessgo-mainpage.png": "/Portfolio-OG/static/media/Lessgo-mainpage.923ffedfed01769995f9.png",
+    "static/media/Userpage-TechGram (1).png": "/Portfolio-OG/static/media/Userpage-TechGram (1).03813c86c77f49130e6d.png",
+    "static/media/Loginpage-TechGram.png": "/Portfolio-OG/static/media/Loginpage-TechGram.698b21540b343c80d438.png",
+    "static/media/myprofile.jpg": "/Portfolio-OG/static/media/myprofile.109bf0162f999a4bb94a.jpg",
+    "static/media/physics.png": "/Portfolio-OG/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/java.png": "/Portfolio-OG/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/arrow.png": "/Portfolio-OG/static/media/arrow.06cf7f3acb9df18b6a21.png",
+    "static/media/github.png": "/Portfolio-OG/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/html-5.png": "/Portfolio-OG/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/css-3.png": "/Portfolio-OG/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/Portfolio-OG/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Portfolio-OG/index.html",
+    "main.100e4af5.css.map": "/Portfolio-OG/static/css/main.100e4af5.css.map",
+    "main.1d1e40e8.js.map": "/Portfolio-OG/static/js/main.1d1e40e8.js.map",
+    "787.2aba3b6f.chunk.js.map": "/Portfolio-OG/static/js/787.2aba3b6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.100e4af5.css",
+    "static/js/main.1d1e40e8.js"
+  ]
+}
